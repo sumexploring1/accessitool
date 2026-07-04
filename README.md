@@ -34,18 +34,18 @@ Welcome to the **AccessiTool** repository — a comprehensive resource for under
 ---
 ## 🔧 AccessiTool Core Features (All 11 Tools)
 
-| **#** | **Tool** | **Purpose** | **Link** |
-|-------|----------|-------------|----------|
-| 1 | **ADA Compliance Checker** | Scan against ADA Title II & III — WCAG 2.1 AA | [Try ADA Checker →](https://www.accessitool.com/tools/ada.html) |
+| # | Tool | Purpose | Link |
+|---|------|---------|------|
+| 1 | **ADA Compliance Checker** | ADA Title II & III — WCAG 2.1 AA | [Try ADA Checker →](https://www.accessitool.com/tools/ada.html) |
 | 2 | **EAA Compliance Checker** | European Accessibility Act — EN 301 549 | [Try EAA Checker →](https://www.accessitool.com/tools/eaa.html) |
-| 3 | **HHS Section 504 Checker** | Healthcare compliance — urgent deadline | [Try HHS Checker →](https://www.accessitool.com/tools/hhs.html) |
+| 3 | **HHS Section 504 Checker** | Healthcare — urgent deadline | [Try HHS Checker →](https://www.accessitool.com/tools/hhs.html) |
 | 4 | **Georgia Accessibility Checker** | Georgia's new 2027 law — Sep 2027 | [Try Georgia Checker →](https://www.accessitool.com/tools/georgia.html) |
-| 5 | **Color Contrast Checker** | WCAG 4.5:1 contrast ratio test | [Try Color Contrast →]    (https://www.accessitool.com/tools/color-contrast.html) |
-| 6 | **Keyboard Navigation Checker** | Tab order, focus indicators, keyboard nav | [Try Keyboard Checker →](https://www.accessitool.com/tools/keyboard.html) |
+| 5 | **Color Contrast Checker** | WCAG 4.5:1 contrast ratio test | [Try Color Contrast →](https://www.accessitool.com/tools/color-contrast.html) |
+| 6 | **Keyboard Navigation Checker** | Tab order, focus indicators | [Try Keyboard Checker →](https://www.accessitool.com/tools/keyboard.html) |
 | 7 | **Screen Reader Checker** | ARIA labels, alt text, semantic HTML | [Try Screen Reader →](https://www.accessitool.com/tools/screen-reader.html) |
 | 8 | **PDF Accessibility Checker** | PDF tags, reading order, alt text | [Try PDF Checker →](https://www.accessitool.com/tools/pdf.html) |
-| 9 | **Mobile Accessibility Scanner** | iOS & Android — touch targets, VoiceOver | [Try Mobile Scanner →](https://www.accessitool.com/tools/mobile.html) |
-| 10 | **Multi-Law Compliance Report** | ADA, EAA, 508, AODA, UK, DDA combined | [Try Multi-Law →](https://www.accessitool.com/tools/multi-law.html) |
+| 9 | **Mobile Accessibility Scanner** | iOS & Android — touch targets | [Try Mobile Scanner →](https://www.accessitool.com/tools/mobile.html) |
+| 10 | **Multi-Law Compliance Report** | ADA, EAA, 508, AODA, UK, DDA | [Try Multi-Law →](https://www.accessitool.com/tools/multi-law.html) |
 | 11 | **PDF Remediation (Pro)** | AI-powered alt text & auto-tagging | [Try PDF Remediation →](https://www.accessitool.com/tools/pdf-remediation.html) |
 
 ## 📊 Current Compliance Landscape (2026)
@@ -118,6 +118,12 @@ Checks your site against ADA, EAA, Section 508, AODA, and UK accessibility regul
 4. Review the detailed report with violations and solutions
 5. Apply AI-powered auto-fixes or manual remediations
 6. Monitor continuously with 24/7 scanning
+## 📬 Contact
+
+- **Website**: [https://www.accessitool.com/](https://www.accessitool.com/)
+- **Blog**: [https://www.accessitool.com/blog.php](https://www.accessitool.com/blog.php)
+- **Tools**: [All Accessibility Tools](https://www.accessitool.com/tools/all-accessibility-tools.html)
+- **Laws**: [Global Law Coverage](https://www.accessitool.com/laws/ada.html)
 
 ### Quick Start Example
 
