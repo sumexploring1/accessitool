@@ -1,5 +1,15 @@
 # 🚀 AccessiTool: The Complete Guide to ADA & WCAG Compliance in 2026
 
+![GitHub license](https://img.shields.io/github/license/sumexploring1/accessitool)
+![GitHub stars](https://img.shields.io/github/stars/sumexploring1/accessitool)
+![GitHub issues](https://img.shields.io/github/issues/sumexploring1/accessitool)
+![GitHub forks](https://img.shields.io/github/forks/sumexploring1/accessitool)
+![GitHub last commit](https://img.shields.io/github/last-commit/sumexploring1/accessitool)
+
+Welcome to the **AccessiTool** repository...
+# 🚀 AccessiTool: The Complete Guide to ADA & WCAG Compliance in 2026
+
+
 Welcome to the **AccessiTool** repository — a comprehensive resource for understanding and implementing web accessibility standards in 2026. This project provides tools, guidelines, and automated solutions for achieving compliance with ADA Title II, WCAG 2.1 Level AA, EAA, and other global accessibility laws.
 
 ---
